@@ -1,0 +1,4 @@
+export const FETCH_ISSUES =  'FETCH_ISSUES';
+export const ISSUE_ERROR = 'ISSUE_ERROR';
+export const FETCH_REQUEST = 'FETCH_REQUEST';
+export const FETCH_MORE_ISSUES = 'FETCH_MORE_ISSUES';
